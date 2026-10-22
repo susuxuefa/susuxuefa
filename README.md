@@ -10,6 +10,14 @@
 - [susujuris.cn](https://susujuris.cn)：法经济学文章、概念库与司法解释速查
 - 微信公众号：苏酥读法（没有主页链接，故不在此处放链接）
 
+
+**最近在写**
+
+- [法律经济学入门（上篇）](https://susujuris.cn/article-fajingjixue-shangpian.html)
+- [关于青苗法鸣一文的回应与反思](https://susujuris.cn/article-qingmiao-huiying.html)
+
+都收在[文章页](https://susujuris.cn/articles.html)。
+
 **写作原则**
 
 1. 只写自己有把握的；拿不准就标明不确定。
