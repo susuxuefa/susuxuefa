@@ -11,12 +11,10 @@
 - 微信公众号：苏酥读法（没有主页链接，故不在此处放链接）
 
 
-**最近在写**
+**站内板块**
 
-- [法律经济学入门（上篇）](https://susujuris.cn/article-fajingjixue-shangpian.html)
-- [关于青苗法鸣一文的回应与反思](https://susujuris.cn/article-qingmiao-huiying.html)
-
-都收在[文章页](https://susujuris.cn/articles.html)。
+- [文章](https://susujuris.cn/articles.html)：法经济学笔记与公众号文章存档
+- [司法文件](https://susujuris.cn/documents.html)：指导性案例、司法解释与数据入口
 
 **写作原则**
 
